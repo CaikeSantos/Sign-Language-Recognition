@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/1ee7eee5-73d6-4b44-b355-53b7a4712436">
+<img width=50% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/1ee7eee5-73d6-4b44-b355-53b7a4712436">
 
 ## Brazilian Sign Language Alphabet Recognition - Artificial Intelligence Project
 
@@ -8,9 +8,9 @@ A project aimed at recognizing Brazilian Sign Language alphabet signs through ge
 - After downloading all the files, install the dependencies with "pip install -r requirements.txt". After that, simply enter this command to start the program directly in the terminal: "python main.py".
 - Make hand signs and the program will display the detected letters in real-time on the screen.
 
-<img width=100% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/68aa816b-31f7-43a0-a537-18b1cc7dcdf1">
+<img width=50% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/68aa816b-31f7-43a0-a537-18b1cc7dcdf1">
 
-<img width=100% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/e053a327-f531-44ba-ac3a-2a8529fb3e1a">
+<img width=50% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/e053a327-f531-44ba-ac3a-2a8529fb3e1a">
 
 ## Resources Used
 
@@ -26,7 +26,7 @@ The model was created using Google's Teachable Machine and the program was devel
 - The program works more effectively with a smooth background.
 - Some signs have significantly lower success rate than others, as shown in the following graph:
 
-<img width=100% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/85673302-054d-4ca3-88c2-ca668129fc04">
+<img width=50% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/85673302-054d-4ca3-88c2-ca668129fc04">
 
 ## Authors
 
