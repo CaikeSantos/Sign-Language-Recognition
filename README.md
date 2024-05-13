@@ -1,5 +1,6 @@
 <img width=100% src="https://github.com/CaikeSantos/Sign-Language-Recognition/assets/84350582/1ee7eee5-73d6-4b44-b355-53b7a4712436">
-# Brazilian Sign Language Alphabet Recognition - Artificial Intelligence Project
+
+## Brazilian Sign Language Alphabet Recognition - Artificial Intelligence Project
 
 A project aimed at recognizing Brazilian Sign Language alphabet signs through gestures captured by the webcam.
 
